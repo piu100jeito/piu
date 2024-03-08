@@ -16,3 +16,7 @@ body {
     align-items: center;
     padding: 24px 0;
 }
+
+.cabecalho-imgem {
+    width: 10%;
+}
