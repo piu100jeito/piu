@@ -1,3 +1,15 @@
-.texto {
- font-size:50px ;   
+* {
+    margin: 0;
+    padding: 0;
+
+}
+
+body {
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+.cabecalho {
+    background-color: #424e61;
+    color: white;
+    display: flex;
 }
