@@ -18,5 +18,11 @@ body {
 }
 
 .cabecalho-imagem {
-    width: 10%;
+    width: 20%;
+}
+
+.cabecalho-lista-item {
+   display: inline-block; 
+   margin: 0 16px;
+   font-size: 24px;   
 }
